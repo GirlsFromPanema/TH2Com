@@ -1,0 +1,8 @@
+node_modules/
+.env
+config.json
+config1.json
+.prettierrc.json
+.vscode/
+.vs/
+.idea
